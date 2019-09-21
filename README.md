@@ -1,6 +1,6 @@
 # Core Methods in Educational Data Mining: Syllabus 
 
-Introduction class -Good Class! I like it! nICE！
+Introduction class -Good Class! I like it! NICE！
 
 * **Course:** [HUDK 4050, Teachers College, Columbia](http://www.columbia.edu/~rsb2162/EDM2015/index.html)
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](lang2@tc.columbia.edu), Twitter: @learng00d
